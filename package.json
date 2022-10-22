@@ -1,0 +1,29 @@
+{
+  "name": "next2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^12.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sh6616/nextjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sh6616/nextjs/issues"
+  },
+  "homepage": "https://github.com/sh6616/nextjs#readme"
+}
